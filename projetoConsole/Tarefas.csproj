@@ -1,0 +1,3 @@
+<Project DefaultTargets="Compile">
+    <Import Project="..\shared\Core.targets" />
+</Project>

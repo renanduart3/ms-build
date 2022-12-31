@@ -1,0 +1,6 @@
+<Project DefaultTargets="Compile">
+    	<PropertyGroup>
+		    <DiretorioSaida>bin\</DiretorioSaida>
+		    <ArquivoSaida>$(MsBuildProjectName)</ArquivoSaida>
+	    </PropertyGroup>
+</Project>
